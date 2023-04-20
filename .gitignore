@@ -1,0 +1,5 @@
+# gromacs trajectory files#
+###########################
+# these can be HUGE, and github doesn't want me uploading that. Sad.
+*.xtc
+*.trr
